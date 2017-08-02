@@ -34,6 +34,8 @@
 * Structure
 </br>
 ** two bsg circular pointer
+</br>
 ** and ?
+</br>
 * Input protocol
 * Output protocol
