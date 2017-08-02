@@ -32,10 +32,7 @@
 | equal_ptrs             | ?                    |
 
 * Structure
-</br>
 ** two bsg circular pointer
-</br>
 ** and ?
-
 * Input protocol
 * Output protocol
